@@ -1,6 +1,6 @@
-# {{DECKDECKGO_TITLE}}
+# Presentation Sep 4 2021 18-50-37
 
-{{DECKDECKGO_DESCRIPTION}} 
+ 
 
 ## Table of contents
 
@@ -11,15 +11,15 @@
 
 ## Slides
 
-🔗 [https://beta.deckdeckgo.io{{DECKDECKGO_BASE_HREF}}](https://beta.deckdeckgo.io{{DECKDECKGO_BASE_HREF}})
+🔗 [https://beta.deckdeckgo.io/jgb/presentation-sep-4-2021-18-50-37/](https://beta.deckdeckgo.io/jgb/presentation-sep-4-2021-18-50-37/)
 
 ## Usage
 
 💻 To get started locally with this presentation, clone this repo and install its dependencies.
 
 ```
-git clone {{DECKDECKGO_GITHUB_REPO_URL}}
-cd {{DECKDECKGO_GITHUB_REPO_NAME}}
+git clone https://github.com/jgbarah/presentation-sep-4-2021-18-50-37
+cd presentation-sep-4-2021-18-50-37
 npm install
 ```
 
